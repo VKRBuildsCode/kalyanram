@@ -5,7 +5,7 @@ with open("README.rst", "r", encoding="utf-8") as fh:
 
 setup(
     name="kalyanram",
-    version="0.0.3",
+    version="0.0.8",
     author="V Kalyan Ram",
     author_email="vrchinnarathod@gmail.com",
     description="A brief description of the kalyanram package.",
