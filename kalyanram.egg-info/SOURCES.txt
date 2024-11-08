@@ -1,8 +1,0 @@
-README.rst
-setup.py
-kalyanram/__init__.py
-kalyanram.egg-info/PKG-INFO
-kalyanram.egg-info/SOURCES.txt
-kalyanram.egg-info/dependency_links.txt
-kalyanram.egg-info/top_level.txt
-tests/__init__.py
