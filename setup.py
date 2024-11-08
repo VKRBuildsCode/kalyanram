@@ -1,4 +1,4 @@
-from setuptools import setup, find_packages
+from setuptools import setup
 
 setup(
     name="kalyanram",
@@ -9,7 +9,7 @@ setup(
     long_description=open("README.rst", "r", encoding="utf-8").read(),
     long_description_content_type="text/x-rst",  # Specify that the long description is in reStructuredText
     url="",  # Add the URL for the project or repository if available
-    packages=find_packages(),  # Automatically find packages in the directory
+  # Automatically find packages in the directory
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
